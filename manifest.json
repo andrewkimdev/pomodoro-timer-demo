@@ -1,0 +1,16 @@
+{
+  "name": "CyberPomo",
+  "short_name": "Timer",
+  "display": "standalone",
+  "background_color": "#000000",
+  "start_url": "/",
+  "theme_color": "#00ff41",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
